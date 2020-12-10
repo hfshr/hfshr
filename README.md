@@ -10,5 +10,5 @@ My current interests are techniques for interpretable machine learning and all t
 
 [bitmexr:](https://cran.r-project.org/web/packages/bitmexr/index.html) An R client for cryptocurrency exchnage BitMEX [![CRAN status](https://www.r-pkg.org/badges/version/bitmexr)](https://CRAN.R-project.org/package=bitmexr)
 
-[poweRof10:](https://github.com/hfshr/poweRof10) Tools to scrape athletics rankings data from www.thepowerof10.info ![](https://img.shields.io/badge/just-for%20fun-blue.svg)
+[poweRof10:](https://github.com/hfshr/poweRof10) Tools to scrape athletics rankings data from www.thepowerof10.info [![powerof10](https://img.shields.io/badge/just-for%20fun-blue.svg)](https://powerof10.hfshr.xyz/)
 
