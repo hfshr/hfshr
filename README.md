@@ -2,7 +2,7 @@
 
 I'm currently a data scientist based in Cardiff, Wales. I love using R and enjoy writing about (mainly) R related topics on my site **www.hfshr.xyz**.
 
-In 2019 I completed my PhD at Cardiff Metropolitan University where I was investigating risk factors for sports injury from an interdisciplinary perspective 🎓
+In 2019 I completed my PhD at Cardiff Metropolitan University where I investigated risk factors for sports injury from an interdisciplinary perspective
 
 My current interests are techniques for interpretable machine learning and all thing Bayesian.
 
